@@ -26,15 +26,15 @@ Le filtre a été testé sur des images bruitées (ex: ajout de bruit gaussien) 
 
 *(Plus* $\epsilon$ *augmente, plus le filtre moyenne et lisse l'image. Les contours forts restent préservés grâce au modèle linéaire local).*
 
-![Étude des paramètres r et eps](grille_chats.png)
-(*Grille illustrant le débruitage de l'image pour différentes valeurs de* $r$ *et* $\epsilon$)
+<img width="985" height="657" alt="grille_chats" src="https://github.com/user-attachments/assets/b254a7c3-7b17-4062-a47d-c5efb5197c17" />
+
 
 ### 3. Application Avancée : Régularisation de Transfert de Couleurs
 Pour démontrer l'utilité du filtre guidé dans des pipelines complexes de Computer Vision, il a été appliqué comme étape de **régularisation après un transfert de couleurs** entre deux images. 
 Le filtre guidé utilise l'image originale comme "guide" pour lisser les artefacts de couleur tout en respectant strictement les contours et la structure de l'image.
 
-![Avant/Après Régularisation](color_transfer.png)
-*(À gauche : Image après transfert de couleurs brut. À droite : Résultat lissé et corrigé grâce au filtre guidé).*
+<img width="1002" height="566" alt="color_transfer" src="https://github.com/user-attachments/assets/0d53c16a-0f4c-4da8-b49e-fdaae33aa605" />
+
 
 ## Compétences démontrées
 * Traduction d'équations mathématiques issues de la recherche (Computer Vision) en algorithmes matriciels Python fonctionnels et optimisés.
