@@ -1,5 +1,5 @@
 # Projet_Traitement_Images
-Implémentation mathématique et optimisée du Filtre Guidé pour le débruitage et la régularisation de transfert de couleurs.
+> Implémentation mathématique et optimisée du Filtre Guidé pour le débruitage et la régularisation de transfert de couleurs.
 # Traitement d'Images : Restauration et Filtrage Guidé 
 
 ## Contexte du projet
