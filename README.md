@@ -12,7 +12,7 @@ L'objectif est d'étudier et d'implémenter de zéro le **Filtre Guidé**, en se
 * **Librairies :** NumPy, Matplotlib, Time (mesure de performance)
 * **Concepts Mathématiques :** Régression linéaire locale, image intégrale (optimisation $\mathcal{O}(N)$ ), filtre passe-bas, régularisation.
 
-## Démarche Analytique et Implémentation
+## Démarche, Implémentation et Résultats
 
 ### 1. Implémentation et Optimisation Mathématique
 Plutôt que d'utiliser des fonctions pré-codées, l'algorithme a été codé "from scratch" en traduisant directement les équations mathématiques de l'article :
