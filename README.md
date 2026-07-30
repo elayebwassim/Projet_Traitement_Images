@@ -9,7 +9,7 @@ L'objectif est d'étudier et d'implémenter de zéro le **Filtre Guidé**, en se
 
 ## Technologies et Outils
 * **Langage :** Python
-* **Librairies :** NumPy (calcul matriciel), Matplotlib (visualisation), Time (mesure de performance)
+* **Librairies :** NumPy, Matplotlib, Time (mesure de performance)
 * **Concepts Mathématiques :** Régression linéaire locale, image intégrale (optimisation $\mathcal{O}(N)$ ), filtre passe-bas, régularisation.
 
 ## Démarche Analytique et Implémentation
